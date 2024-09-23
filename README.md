@@ -2,7 +2,7 @@
 Certified Full Stack Developer with a passion for coding and a knack for solving complex problems. I am a quick learner adept at mastering new technologies. Proficient in JavaScript, React, and Python, I excel in creating dynamic, responsive web applications. Committed to continuous improvement and driven by a strong desire to innovate and deliver high-quality solutions.
 
 ## 📖 My Recent Project: "CCE"
-The **Collaborative Code Editor** is a web-based platform for real-time coding collaboration. It supports multiple users and offers features like syntax highlighting, code completion, error detection, and secure document sharing. With user authentication, autosave, and version control, it streamlines team workflows for more efficient software development.
+The **Collaborative Code Editor** is a web-based platform designed for real-time coding collaboration. It supports multiple users and features syntax highlighting, code completion, error detection, and secure document sharing. With robust user authentication, autosave, and version control, it streamlines team workflows and enhances efficiency in software development.
 
 ## 💻 Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
