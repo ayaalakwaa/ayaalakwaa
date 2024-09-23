@@ -1,7 +1,7 @@
 # 👩‍💻🚀 About Me: Certified Full Stack Developer
 Certified Full Stack Developer with a passion for coding and a knack for solving complex problems. I am a quick learner adept at mastering new technologies. Proficient in JavaScript, React, and Python, I excel in creating dynamic, responsive web applications. Committed to continuous improvement and driven by a strong desire to innovate and deliver high-quality solutions.
 
-## 📖 My Recent Project: "Collaborative Code Editor"
+## 📖 My Recent Project: "CCE"
 The **Collaborative Code Editor** is a web-based platform for real-time coding collaboration. It supports multiple users and offers features like syntax highlighting, code completion, error detection, and secure document sharing. With user authentication, autosave, and version control, it streamlines team workflows for more efficient software development.
 
 ## 💻 Languages
