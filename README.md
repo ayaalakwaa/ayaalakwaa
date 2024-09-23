@@ -23,5 +23,4 @@ The **Collaborative Code Editor** is a web-based platform for real-time coding c
 
 
 ### 🌟 Let's Connect
-- **Email**: ayaalakwaa04@gmail.com
-- **LinkedIn**: [Aya Alakwaa](https://www.linkedin.com/in/aya-alakwaa/)
+I am always excited to connect with fellow developers, problem solvers, and innovators. Whether you're looking for collaboration on a project or brainstorming ideas, feel free to reach out! You can email me at [ayaalakwaa04@gmail.com](mailto:ayaaalakwaa04@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aya-alakwaa/).
