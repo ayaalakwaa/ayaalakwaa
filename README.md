@@ -1,4 +1,4 @@
-# 👩‍💻🚀 About Me: Certified Full Stack Developer
+## 👩‍💻🚀 About Me: Certified Full Stack Developer
 Certified Full Stack Developer with a passion for coding and a knack for solving complex problems. I am a quick learner adept at mastering new technologies. Proficient in JavaScript, React, SQL, and Python, I excel in creating dynamic, responsive web applications. Committed to continuous improvement and driven by a strong desire to innovate and deliver high-quality solutions.
 
 ## 💡 My Recent Project: "CCE"
