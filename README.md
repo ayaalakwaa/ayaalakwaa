@@ -25,5 +25,5 @@ The **Collaborative Code Editor** is a web-based platform designed for real-time
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat-square)
 
 ## 🌟 Let's Build Something Amazing Together
-I am always excited to connect with fellow developers, problem solvers, and innovators. Whether you're looking for collaboration on a project or brainstorming ideas, feel free to reach out! You can email me at [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ayaaalakwaa04@gmail.com)
- or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aya-alakwaa/)
+I am always excited to connect with fellow developers, problem solvers, and innovators. Whether you're looking for collaboration on a project or brainstorming ideas, feel free to reach out! You can contact me via [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:ayaaalakwaa04@gmail.com) or connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/aya-alakwaa/)
+
